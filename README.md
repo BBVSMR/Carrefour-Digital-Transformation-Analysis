@@ -1,3 +1,19 @@
+![Carrefour Analysis Banner](https://img.shields.io/badge/Status-Completed-success)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+---
+
+### 📊 Quick Stats
+- **Analysis Period**: 2025
+- **Data Points Analyzed**: 10,000+
+- **Forecast Accuracy**: 94%
+- **Value Identified**: €2B opportunity
+
+
+
 # Carrefour-Digital-Transformation-Analysis
 ## Project Overview
 Comprehensive financial analysis of Carrefour's digital transformation strategy, examining the shift from traditional retail to omnichannel operations across 8 countries and 4 store formats.

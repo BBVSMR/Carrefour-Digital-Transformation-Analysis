@@ -1,22 +1,20 @@
 # Carrefour-Digital-Transformation-Analysis
-# Carrefour Digital Transformation Analysis 🛒
-
 ## Project Overview
 Comprehensive financial analysis of Carrefour's digital transformation strategy, examining the shift from traditional retail to omnichannel operations across 8 countries and 4 store formats.
 
-## 🎯 Objectives
+## Objectives
 - Analyze profitability by store format (Hypermarkets, Supermarkets, Convenience)
 - Evaluate digital transformation ROI and e-commerce impact on margins
 - Benchmark against French competitors (Leclerc, Casino, Auchan)
 - Forecast 3-year financial performance under multiple scenarios
 
-## 📊 Key Findings
+## Key Findings
 1. **Format Performance**: Convenience stores generate 2x ROIC vs hypermarkets (15% vs 8%)
 2. **Digital Impact**: E-commerce dilutes margins by 2pp but essential for market share defense
 3. **Value Creation**: €2B opportunity through optimizing store portfolio and private label expansion
 4. **Geographic Insights**: Spain/Italy operations show 3pp higher EBITDA margins than France
 
-## 🔧 Methodology
+## Methodology
 
 ### Data Sources
 - Carrefour Universal Registration Document (2023)
@@ -36,8 +34,8 @@ Comprehensive financial analysis of Carrefour's digital transformation strategy,
 3. **Cash Flow**: Working capital analysis by format
 4. **Scenarios**: Three strategic pathways analyzed
 
-## 📈 Dashboard Preview
-![Dashboard Screenshot](04_Dashboards/Screenshots/main_dashboard.png)
+## Dashboard Preview
+--Screenshot--
 
 ### Key Metrics Tracked:
 - Digital penetration rate (currently 10%, target 20% by 2026)
@@ -45,35 +43,33 @@ Comprehensive financial analysis of Carrefour's digital transformation strategy,
 - EBITDA margin evolution
 - Market share trends
 
-## 💼 Business Recommendations
+## Business Recommendations
 1. **Accelerate Convenience Expansion**: Open 200+ stores annually in urban areas
 2. **Optimize Hypermarket Portfolio**: Convert underperformers to cash & carry format
 3. **Digital Investment Focus**: Prioritize high-margin categories for e-commerce
 4. **Private Label Push**: Increase from 25% to 40% to match Leclerc
 
-## 📁 Repository Structure
+## Repository Structure
 - `01_Data/`: Raw and processed datasets
 - `02_Models/`: Excel financial models
 - `03_Analysis/`: Python scripts and notebooks
 - `04_Dashboards/`: Visualizations and BI reports
 - `05_Reports/`: Final deliverables and presentations
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 1. Start with the [Executive Summary](05_Reports/Executive_Summary.pdf)
 2. Explore the [Financial Model](02_Models/Carrefour_Financial_Model_V1.xlsx)
 3. Review the [Interactive Dashboard](04_Dashboards/Screenshots/)
 4. Check the [Detailed Documentation](02_Models/Model_Documentation.md)
 
-## 📊 Model Accuracy
+## Model Accuracy
 - Back-tested against Q3 2024 results: 94% accuracy on revenue forecast
 - EBITDA margin prediction within 0.5pp of actual
 
-## 🔗 Connect
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+## Connect
+- LinkedIn: linkedin.com/in/sai-manideep-bijjam
+- Email: SaiManideepBijjam@gmail.com
 
-## 📝 License
+## License
 This project is available under the MIT License - educational purposes
 
----
-*Note: This analysis uses publicly available data and is for educational/portfolio purposes only*
